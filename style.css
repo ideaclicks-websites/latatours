@@ -49,7 +49,7 @@ body {
   background: var(--white);
   line-height: 1.6;
   overflow-x: hidden;
-  padding-bottom: 70px; /* mobile sticky CTA clearance */
+  padding-bottom: 0px; /* mobile sticky CTA clearance */
 }
 
 img {

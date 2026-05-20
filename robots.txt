@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://latatoursandtravels.netlify.app/sitemap.xml
+Sitemap: https://latatours.ideaclicks.in/sitemap.xml
